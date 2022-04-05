@@ -1,2 +1,2 @@
 # BladeEngine
-A Blazor-powered 3D Engine
+A Web-powered 3D Engine
